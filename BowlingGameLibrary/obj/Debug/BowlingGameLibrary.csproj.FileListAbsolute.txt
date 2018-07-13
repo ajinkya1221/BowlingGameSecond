@@ -1,0 +1,6 @@
+C:\Users\ajink\Source\Repos\BowlingGame\BowlingGameLibrary\bin\Debug\BowlingGameLibrary.dll
+C:\Users\ajink\Source\Repos\BowlingGame\BowlingGameLibrary\bin\Debug\BowlingGameLibrary.pdb
+C:\Users\ajink\Source\Repos\BowlingGame\BowlingGameLibrary\obj\Debug\BowlingGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ajink\Source\Repos\BowlingGame\BowlingGameLibrary\obj\Debug\BowlingGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ajink\Source\Repos\BowlingGame\BowlingGameLibrary\obj\Debug\BowlingGameLibrary.dll
+C:\Users\ajink\Source\Repos\BowlingGame\BowlingGameLibrary\obj\Debug\BowlingGameLibrary.pdb
